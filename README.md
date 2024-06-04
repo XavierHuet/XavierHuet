@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier Huet</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **C, C++, Python, Java**
+- 🌱 I’m currently learning **C, C++, Python, Java, JavaScript, SQL**
 
 - 📫 How to reach me **xavier.huet@epitech.eu**
 
